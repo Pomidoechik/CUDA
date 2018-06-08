@@ -1,0 +1,141 @@
+.header{
+    background-color: #87509C;
+    color: white;
+    height: 900px
+
+
+}
+.logo{
+    font-size: 100px;
+    margin-left: 180px;
+    margin-top: 40px;
+    float: left;
+    width: 30% ;
+    font-family: 'Lobster', cursive;
+}
+.another{
+    position: relative;
+    width: 35%;
+    float: right;
+    font-size: 27px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+	font-family: 'Oxygen', sans-serif;
+}
+.press{
+    padding: 5px;
+}
+.press:hover{
+    background: rgba(96, 56, 112, 0.781);
+    border-radius: 5px;
+    
+}
+.button{
+    background-color: #EB7D4B ;
+    height: 90px;
+    border-radius: 15px;
+    margin: 2% 38% ;
+    width: 470px;
+    font-size: 34px;
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+
+    
+}
+
+.greeting{
+    font-size: 55px;
+    clear: both;
+    text-align: center;
+    padding-top: 180px;
+	font-family: 'Oxygen', sans-serif
+}
+
+.body{
+
+    background: #17C2A4;
+    height: 1300px;
+    color: white;
+	font-family: 'Oxygen', sans-serif;
+
+}
+.services{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 90px;
+}
+.text{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 25px
+
+}
+
+.all_services{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 90px
+}
+
+.class_of_services{
+	text-align: center;
+	font-size: 40px
+	
+} 
+.empty_field{
+	padding-right: 100px;
+	background: white;
+	height: 400px;
+	width: 290px;
+	border-radius: 2000000000px
+	
+}
+
+.footer{
+	height: 1200px;
+	background: #E7F1F8;
+	color: #3C4761;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.footer_title{
+	font-size: 60px;
+	text-align: center;
+	padding-top: 180px
+	
+}
+.footer_bottom_title{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 100px;
+	
+}
+.footer_names{
+	display:flex;
+	justify-content: space-around;
+	margin-top: 80px;
+}
+.profesion{
+	font-size: 20px;
+	color: #6ACBEC;
+	text-align:center
+}
+.name{
+	font-size: 30px;
+	text-align:center
+	
+}
+.dooter_text{
+	font-size: 20px;
+	text-align:center
+	
+}
+.gray_circle{
+	text-align: center;
+	height: 240px;
+	width: 240px;
+	border-radius: 100000px;
+	background:#878787
+	
+}
